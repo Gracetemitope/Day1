@@ -1,0 +1,23 @@
+{
+  "name": "html-css",
+  "version": "1.0.0",
+  "description": "First Microverse Project",
+  "main": "index.html",
+  "scripts": {
+    "test": "nil",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gracetemitope/Day1.git"
+  },
+  "author": "Grace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gracetemitope/Day1/issues"
+  },
+  "homepage": "https://github.com/Gracetemitope/Day1#readme",
+  "devDependencies": {
+    "eslint": "^7.14.0"
+  }
+}
